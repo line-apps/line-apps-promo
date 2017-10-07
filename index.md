@@ -1,5 +1,3 @@
-hi Subdomain Takeover
-
-xrxyy
+hi xrxyy
 </br>
-http://xrxyy.tumblr.com/
+
